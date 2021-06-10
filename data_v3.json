@@ -1,66 +1,6 @@
 {
     "categories": [
         {
-            "name": "Popular",
-            "watches": [
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face1.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face1.jpg",
-                    "status": "free"
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face1.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face1.watchface",
-                    "status": "free",
-                    "isClockType": true
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face2.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face2.watchface",
-                    "status": "paid",
-                    "isClockType": true
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face3.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face3.watchface",
-                    "status": "paid",
-                    "isClockType": true
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face26.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face26.watchface",
-                    "status": "paid",
-                    "isClockType": true
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face27.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face27.watchface",
-                    "status": "paid",
-                    "isClockType": true
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face2.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face2.jpg",
-                    "status": "paid"
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face3.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face3.jpg",
-                    "status": "paid"
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face4.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face4.jpg",
-                    "status": "paid"
-                },
-                {
-                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face5.jpg",
-                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face5.jpg",
-                    "status": "paid"
-                }
-            ]
-        },
-        {
             "name": "Live",
             "watches": [
                 {
@@ -304,6 +244,66 @@
                     "status": "paid"
                 },
                 
+            ]
+        },
+        {
+            "name": "Popular",
+            "watches": [
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face1.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face1.jpg",
+                    "status": "free"
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face1.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face1.watchface",
+                    "status": "free",
+                    "isClockType": true
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face2.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face2.watchface",
+                    "status": "paid",
+                    "isClockType": true
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face3.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face3.watchface",
+                    "status": "paid",
+                    "isClockType": true
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face26.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face26.watchface",
+                    "status": "paid",
+                    "isClockType": true
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face27.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face27.watchface",
+                    "status": "paid",
+                    "isClockType": true
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face2.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face2.jpg",
+                    "status": "paid"
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face3.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face3.jpg",
+                    "status": "paid"
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face4.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face4.jpg",
+                    "status": "paid"
+                },
+                {
+                    "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face5.jpg",
+                    "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face5.jpg",
+                    "status": "paid"
+                }
             ]
         },
         {
