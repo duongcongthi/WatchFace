@@ -309,56 +309,67 @@
          "name":"Art",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art11.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art11.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Art/art9.png"
@@ -369,51 +380,61 @@
          "name":"Camouflage",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Camouflage/camouflage9.png"
@@ -424,56 +445,67 @@
          "name":"ColorBlock",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock11.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock11.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock9.png"
@@ -484,51 +516,61 @@
          "name":"FlexLine",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/FlexLine/flexline9.png"
@@ -539,51 +581,61 @@
          "name":"Geometric",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Geometric/geometric9.png"
@@ -594,51 +646,61 @@
          "name":"Kaleidoscope",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Kaleidoscope/kaleidoscope9.png"
@@ -649,51 +711,61 @@
          "name":"Knitted",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Knitted/knitted9.png"
@@ -704,51 +776,61 @@
          "name":"MerryChristmas",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas9.png"
@@ -759,51 +841,61 @@
          "name":"NightCity",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NightCity/nightcity9.png"
@@ -814,51 +906,61 @@
          "name":"RetroLines",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/RetroLines/retroline9.png"
@@ -869,31 +971,37 @@
          "name":"Tech Watches",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch17.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch17.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Tech Watches/techwatch5.png"
@@ -969,46 +1077,55 @@
          "name":"TropicalNeon",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical9.png"
@@ -1019,51 +1136,61 @@
          "name":"WomensDay",
          "watches":[
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday1.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday1.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday10.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday10.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday2.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday2.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday3.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday3.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday4.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday4.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday5.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday5.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday6.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday6.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday7.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday7.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday8.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday8.png"
             },
             {
+               "isClockType":true,
                "status":"paid",
                "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday9.watchface",
                "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/WomensDay/womenday9.png"
