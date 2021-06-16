@@ -442,7 +442,7 @@
          ]
       },
       {
-         "name":"ColorBlock",
+         "name":"Color Block",
          "watches":[
             {
                "isClockType":true,
@@ -773,7 +773,7 @@
          ]
       },
       {
-         "name":"MerryChristmas",
+         "name":"Merry Christmas",
          "watches":[
             {
                "isClockType":true,
@@ -838,7 +838,7 @@
          ]
       },
       {
-         "name":"NightCity",
+         "name":"Night City",
          "watches":[
             {
                "isClockType":true,
@@ -903,7 +903,7 @@
          ]
       },
       {
-         "name":"RetroLines",
+         "name":"Retro Lines",
          "watches":[
             {
                "isClockType":true,
@@ -1074,7 +1074,7 @@
          ]
       },
       {
-         "name":"TropicalNeon",
+         "name":"Tropical Neon",
          "watches":[
             {
                "isClockType":true,
@@ -1133,7 +1133,7 @@
          ]
       },
       {
-         "name":"WomensDay",
+         "name":"Womens Day",
          "watches":[
             {
                "isClockType":true,
@@ -1413,7 +1413,7 @@
          ]
       },
       {
-         "name":"Aesthetic2",
+         "name":"Aesthetic 2",
          "watches":[
             {
                "status":"paid",
@@ -1518,7 +1518,7 @@
          ]
       },
       {
-         "name":"Animal2",
+         "name":"Animal 2",
          "watches":[
             {
                "status":"paid",
@@ -1678,7 +1678,7 @@
          ]
       },
       {
-         "name":"Black2",
+         "name":"Black 2",
          "watches":[
             {
                "status":"paid",
@@ -1808,7 +1808,7 @@
          ]
       },
       {
-         "name":"Bright2",
+         "name":"Bright 2",
          "watches":[
             {
                "status":"paid",
@@ -1928,7 +1928,7 @@
          ]
       },
       {
-         "name":"Car2",
+         "name":"Car 2",
          "watches":[
             {
                "status":"paid",
@@ -2138,7 +2138,7 @@
          ]
       },
       {
-         "name":"ColorfulKaleidos",
+         "name":"Colorful Kaleidos",
          "watches":[
             {
                "status":"paid",
@@ -2253,7 +2253,7 @@
          ]
       },
       {
-         "name":"DailyInspiration",
+         "name":"Daily Inspiration",
          "watches":[
             {
                "status":"paid",
@@ -2338,7 +2338,7 @@
          ]
       },
       {
-         "name":"DarkMonograms",
+         "name":"Dark Monograms",
          "watches":[
             {
                "status":"paid",
@@ -2468,7 +2468,7 @@
          ]
       },
       {
-         "name":"DigitalWorld",
+         "name":"Digital World",
          "watches":[
             {
                "status":"paid",
@@ -2873,7 +2873,7 @@
          ]
       },
       {
-         "name":"Golden2",
+         "name":"Golden 2",
          "watches":[
             {
                "status":"paid",
@@ -2998,7 +2998,7 @@
          ]
       },
       {
-         "name":"Love2",
+         "name":"Love 2",
          "watches":[
             {
                "status":"paid",
@@ -3138,7 +3138,7 @@
          ]
       },
       {
-         "name":"MultiCategory",
+         "name":"Multi Category",
          "watches":[
             {
                "status":"paid",
@@ -7448,7 +7448,7 @@
          ]
       },
       {
-         "name":"OvertheWorld",
+         "name":"Over the World",
          "watches":[
             {
                "status":"paid",
@@ -7743,7 +7743,7 @@
          ]
       },
       {
-         "name":"Quotes2",
+         "name":"Quotes 2",
          "watches":[
             {
                "status":"paid",
@@ -7863,7 +7863,7 @@
          ]
       },
       {
-         "name":"Spring2",
+         "name":"Spring 2",
          "watches":[
             {
                "status":"paid",
@@ -8048,7 +8048,7 @@
          ]
       },
       {
-         "name":"VividColors",
+         "name":"Vivid Colors",
          "watches":[
             {
                "status":"paid",
@@ -8218,7 +8218,7 @@
          ]
       },
       {
-         "name":"White2",
+         "name":"White 2",
          "watches":[
             {
                "status":"paid",
@@ -8333,7 +8333,7 @@
          ]
       },
       {
-         "name":"XLargeFaces",
+         "name":"X-Large Faces",
          "watches":[
             {
                "status":"paid",
