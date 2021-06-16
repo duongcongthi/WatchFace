@@ -442,7 +442,7 @@
          ]
       },
       {
-         "name":"ColorBlock",
+         "name":"Color Block",
          "watches":[
             {
                "isClockType":true,
@@ -773,7 +773,7 @@
          ]
       },
       {
-         "name":"MerryChristmas",
+         "name":"Merry Christmas",
          "watches":[
             {
                "isClockType":true,
@@ -838,7 +838,7 @@
          ]
       },
       {
-         "name":"NightCity",
+         "name":"Night City",
          "watches":[
             {
                "isClockType":true,
@@ -903,7 +903,7 @@
          ]
       },
       {
-         "name":"RetroLines",
+         "name":"Retro Lines",
          "watches":[
             {
                "isClockType":true,
@@ -1074,7 +1074,7 @@
          ]
       },
       {
-         "name":"TropicalNeon",
+         "name":"Tropical Neon",
          "watches":[
             {
                "isClockType":true,
@@ -1133,7 +1133,7 @@
          ]
       },
       {
-         "name":"WomensDay",
+         "name":"Womens Day",
          "watches":[
             {
                "isClockType":true,
@@ -2138,7 +2138,7 @@
          ]
       },
       {
-         "name":"ColorfulKaleidos",
+         "name":"Colorful Kaleidos",
          "watches":[
             {
                "status":"paid",
@@ -2253,7 +2253,7 @@
          ]
       },
       {
-         "name":"DailyInspiration",
+         "name":"Daily Inspiration",
          "watches":[
             {
                "status":"paid",
@@ -2338,7 +2338,7 @@
          ]
       },
       {
-         "name":"DarkMonograms",
+         "name":"Dark Monograms",
          "watches":[
             {
                "status":"paid",
@@ -2468,7 +2468,7 @@
          ]
       },
       {
-         "name":"DigitalWorld",
+         "name":"Digital World",
          "watches":[
             {
                "status":"paid",
@@ -3138,7 +3138,7 @@
          ]
       },
       {
-         "name":"MultiCategory",
+         "name":"Multi Category",
          "watches":[
             {
                "status":"paid",
@@ -7448,7 +7448,7 @@
          ]
       },
       {
-         "name":"OvertheWorld",
+         "name":"Over the World",
          "watches":[
             {
                "status":"paid",
@@ -8048,7 +8048,7 @@
          ]
       },
       {
-         "name":"VividColors",
+         "name":"Vivid Colors",
          "watches":[
             {
                "status":"paid",
@@ -8333,7 +8333,7 @@
          ]
       },
       {
-         "name":"XLargeFaces",
+         "name":"X-Large Faces",
          "watches":[
             {
                "status":"paid",
